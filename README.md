@@ -36,11 +36,15 @@ la siguiente correspondencia:
 ![image](https://user-images.githubusercontent.com/113375951/227747646-74f05cec-d513-45f5-a2b8-c53da7cbe41c.png)
 
 
-# 4. Implemente, tanto de forma recursiva como de forma iterativa, una función que nos diga
+# 4.El Palindromo.
+
+Implemente, tanto de forma recursiva como de forma iterativa, una función que nos diga
 si una cadena de caracteres es simétrica (un palíndromo). Por ejemplo,
 “DABALEARROZALAZORRAELABAD” es un palíndromo.
 
-# 5. Implemente, tanto de forma recursiva como de forma iterativa y con expresiones lambda,
+# 5. Algoritmo de Euclides.
+
+Implemente, tanto de forma recursiva como de forma iterativa y con expresiones lambda,
 una función que nos devuelva el máximo común divisor de dos números enteros
 utilizando el algoritmo de Euclides.
 
