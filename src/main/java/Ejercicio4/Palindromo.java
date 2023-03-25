@@ -18,7 +18,6 @@ public class Palindromo {
         String cadena1 = "DABALEARROZALAZORRAELABAD";
         String cadena2 = "DAVIDTINAUT";
 
-
         System.out.println("La cadena " + cadena1 + " es palíndromo?: " + palindromoIterativo(cadena1));
         System.out.println("La cadena " + cadena2 + " es palíndromo?: " + palindromoIterativo(cadena2));
     }
