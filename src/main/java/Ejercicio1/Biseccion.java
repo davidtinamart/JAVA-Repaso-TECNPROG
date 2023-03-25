@@ -33,4 +33,14 @@ public class Biseccion {
         }
         return med;                                                             // Se devuelve el punto medio
     }
+
+    public static void main(String[] args) {                // Método main
+        double min = 0;
+        double max = 5;
+
+        double result1 = biseccioniterativa(min, max);
+        double result2 = biseccionrecursiva(min, max);
+        System.out.println("El resultado es: " + result1);       //Metodo iterativo
+        System.out.println("El resultado es: " + result2);         //Metodo recursivo
+    }
 }
