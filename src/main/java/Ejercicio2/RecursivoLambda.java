@@ -36,7 +36,13 @@ public class RecursivoLambda {  //atributos independientes para cada metodo
         IntStream.rangeClosed(2, num).forEach(f);
     }
 
-
+    public static void main(String[] args) {  //Método main.
+        int num = 120;
+        //int div = 2;
+        //funcion1(num, div);
+        //factoresPrimosIterativo(num);
+        factoresPrimosLambda(num); //Llamada a la función recursiva
+    }
 
 
 
