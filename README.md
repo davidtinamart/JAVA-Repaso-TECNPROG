@@ -1,5 +1,4 @@
-# UnaMasPorFavor_DavidTinaut :page_with_curl: ✏️
-Una más, por favor.
+# REPASO JAVA :page_with_curl: ✏️
 
  * Mi repositorio: https://github.com/davidtinamart/UnaMasPorFavor_DavidTinaut.git
  
